@@ -1,0 +1,2 @@
+# Andorid_ExternalHook
+基于Android平台，使用外部xposed框架注入，并对so静态链接库进行hook的工具链
